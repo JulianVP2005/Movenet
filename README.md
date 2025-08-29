@@ -1,3 +1,3 @@
 # Movenet
 web 
-https://julianvp2005.github.io/Movenet/
+file:///C:/Users/Julian-Velandia/Documents/GitHub/Movenet/index.html
