@@ -4,9 +4,34 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mi Primera Página</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 50px;
+        }
+        h1 {
+            color: #333;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px 25px;
+            font-size: 16px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
 </head>
 <body>
-    <h1>¡Hola desde GitHub!</h1>
-    <button onclick="alert('¡Diste clic en el botón!')">Haz clic aquí</button>
+    <h1>¡Hola, bienvenido a mi página en GitHub Pages!</h1>
+    <button onclick="alert('¡Hiciste clic en el botón!')">Haz clic aquí</button>
 </body>
 </html>
